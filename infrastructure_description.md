@@ -115,4 +115,4 @@
 
 Загальна схема проекту "БукМаркет":
 
-![Infrastructure description](./images/infrastructure_description.png)
+![Infrastructure description](./images/infrastructure.png)
